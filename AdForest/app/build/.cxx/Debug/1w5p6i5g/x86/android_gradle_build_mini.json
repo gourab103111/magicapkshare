@@ -1,0 +1,55 @@
+{
+  "buildFiles": [
+    "D:\\myfriend\\Updatework\\tryagain\\AdForest\\app\\src\\main\\jni\\Android.mk",
+    "D:\\myfriend\\Updatework\\tryagain\\AdForest\\app\\src\\main\\jni\\Application.mk"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\user\\AppData\\Local\\Android\\Sdk\\ndk\\24.0.8215888\\ndk-build.cmd",
+      "NDK_PROJECT_PATH\u003dnull",
+      "APP_BUILD_SCRIPT\u003dD:\\myfriend\\Updatework\\tryagain\\AdForest\\app\\src\\main\\jni\\Android.mk",
+      "NDK_APPLICATION_MK\u003dD:\\myfriend\\Updatework\\tryagain\\AdForest\\app\\src\\main\\jni\\Application.mk",
+      "APP_ABI\u003dx86",
+      "NDK_ALL_ABIS\u003dx86",
+      "NDK_DEBUG\u003d1",
+      "APP_PLATFORM\u003dandroid-21",
+      "NDK_OUT\u003dD:\\myfriend\\Updatework\\tryagain\\AdForest\\app\\build\\intermediates\\cxx\\Debug\\1w5p6i5g/obj",
+      "NDK_LIBS_OUT\u003dD:\\myfriend\\Updatework\\tryagain\\AdForest\\app\\build\\intermediates\\cxx\\Debug\\1w5p6i5g/lib",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Users\\user\\AppData\\Local\\Android\\Sdk\\ndk\\24.0.8215888\\ndk-build.cmd",
+    "NDK_PROJECT_PATH\u003dnull",
+    "APP_BUILD_SCRIPT\u003dD:\\myfriend\\Updatework\\tryagain\\AdForest\\app\\src\\main\\jni\\Android.mk",
+    "NDK_APPLICATION_MK\u003dD:\\myfriend\\Updatework\\tryagain\\AdForest\\app\\src\\main\\jni\\Application.mk",
+    "APP_ABI\u003dx86",
+    "NDK_ALL_ABIS\u003dx86",
+    "NDK_DEBUG\u003d1",
+    "APP_PLATFORM\u003dandroid-21",
+    "NDK_OUT\u003dD:\\myfriend\\Updatework\\tryagain\\AdForest\\app\\build\\intermediates\\cxx\\Debug\\1w5p6i5g/obj",
+    "NDK_LIBS_OUT\u003dD:\\myfriend\\Updatework\\tryagain\\AdForest\\app\\build\\intermediates\\cxx\\Debug\\1w5p6i5g/lib",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "keys-debug-x86": {
+      "artifactName": "keys",
+      "buildCommandComponents": [
+        "C:\\Users\\user\\AppData\\Local\\Android\\Sdk\\ndk\\24.0.8215888\\ndk-build.cmd",
+        "NDK_PROJECT_PATH\u003dnull",
+        "APP_BUILD_SCRIPT\u003dD:\\myfriend\\Updatework\\tryagain\\AdForest\\app\\src\\main\\jni\\Android.mk",
+        "NDK_APPLICATION_MK\u003dD:\\myfriend\\Updatework\\tryagain\\AdForest\\app\\src\\main\\jni\\Application.mk",
+        "APP_ABI\u003dx86",
+        "NDK_ALL_ABIS\u003dx86",
+        "NDK_DEBUG\u003d1",
+        "APP_PLATFORM\u003dandroid-21",
+        "NDK_OUT\u003dD:\\myfriend\\Updatework\\tryagain\\AdForest\\app\\build\\intermediates\\cxx\\Debug\\1w5p6i5g/obj",
+        "NDK_LIBS_OUT\u003dD:\\myfriend\\Updatework\\tryagain\\AdForest\\app\\build\\intermediates\\cxx\\Debug\\1w5p6i5g/lib",
+        "D:\\myfriend\\Updatework\\tryagain\\AdForest\\app\\build\\intermediates\\cxx\\Debug\\1w5p6i5g/obj/local/x86/libkeys.so"
+      ],
+      "abi": "x86",
+      "output": "D:\\myfriend\\Updatework\\tryagain\\AdForest\\app\\build\\intermediates\\cxx\\Debug\\1w5p6i5g\\obj\\local\\x86\\libkeys.so",
+      "runtimeFiles": []
+    }
+  }
+}

@@ -1,0 +1,72 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.scriptsbundle.adforest.app-mergeDebugResources-157:/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\user\\.gradle\\caches\\transforms-3\\2189648ed224abe3405a4d6d24ef0428\\transformed\\jetified-Android-SwitchDateTimePicker-1.9\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,108,165,217,273,329,376,421,471,518,576",
+                        "endColumns": "52,56,51,55,55,46,44,49,46,57,48",
+                        "endOffsets": "103,160,212,268,324,371,416,466,513,571,620"
+                    },
+                    "to": {
+                        "startLines": "3,4,5,6,7,8,9,11,12,13,14",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "103,156,213,265,321,377,424,533,583,630,688",
+                        "endColumns": "52,56,51,55,55,46,44,49,46,57,48",
+                        "endOffsets": "151,208,260,316,372,419,464,578,625,683,732"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\user\\.gradle\\caches\\transforms-3\\b131c569be2c8bade845e99265e3a69c\\transformed\\appcompat-1.6.1\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    },
+                    "to": {
+                        "startLines": "15",
+                        "startColumns": "4",
+                        "startOffsets": "737",
+                        "endLines": "19",
+                        "endColumns": "13",
+                        "endOffsets": "1009"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\user\\.gradle\\caches\\transforms-3\\1badfed392df5aad68dddd529c0f53c4\\transformed\\jetified-payments-core-20.33.0\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "63",
+                        "endOffsets": "114"
+                    },
+                    "to": {
+                        "startLines": "10",
+                        "startColumns": "4",
+                        "startOffsets": "469",
+                        "endColumns": "63",
+                        "endOffsets": "528"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\user\\.gradle\\caches\\transforms-3\\e07e4fa347fd87ee99b434c191a89755\\transformed\\jetified-SpaceNavigationView-1.6.0\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "47",
+                        "endOffsets": "98"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,2 @@
+D:\myfriend\Updatework\tryagain\AdForest\app\src\main\jni\Android.mk
+D:\myfriend\Updatework\tryagain\AdForest\app\src\main\jni\Application.mk

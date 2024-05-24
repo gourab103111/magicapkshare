@@ -1,0 +1,153 @@
+{
+  "project_info": {
+    "project_number": "170168176816",
+    "firebase_url": "https://adforest-ab45e.firebaseio.com",
+    "project_id": "adforest-ab45e",
+    "storage_bucket": "adforest-ab45e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:170168176816:android:78f4bfa8dba87b4ffeab75",
+        "android_client_info": {
+          "package_name": "com.adforest.analytics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "170168176816-kcv8ml21sra5qf8l7pfvium237a64ge4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.adforest.analytics",
+            "certificate_hash": "ba536f98d653357936f17026623e07a9760791fe"
+          }
+        },
+        {
+          "client_id": "170168176816-96vo4j6q5s20vp7t2atlvojna6rrqik5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDo0JbOPrQ_XqEM8Sc3saYsuN9dQtq0y84"
+        },
+        {
+          "current_key": "AIzaSyD-UWb1WhceMAVnHFe2PNdw49fyS7Yh9rQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "170168176816-96vo4j6q5s20vp7t2atlvojna6rrqik5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "170168176816-cni27t9d6mkg9mmidp62hhm0urm4vlfn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.GlixenTech.AdForestApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:170168176816:android:89acb8715f7d5c84feab75",
+        "android_client_info": {
+          "package_name": "com.scriptsbundle.adforest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "170168176816-0npj4249un4kp8ou0s55tiqiiquhp9r9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.scriptsbundle.adforest",
+            "certificate_hash": "221ab4f1e435ded1e8912c0281fa97033eceaede"
+          }
+        },
+        {
+          "client_id": "170168176816-6blnfr8g2t6ssn9khqfjijtagas6q379.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.scriptsbundle.adforest",
+            "certificate_hash": "a5a484afc4149cb4697f1019183e6a5042344837"
+          }
+        },
+        {
+          "client_id": "170168176816-cdq9mjmprs8j8aj7h2osuh9jeodlnq9p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.scriptsbundle.adforest",
+            "certificate_hash": "71313a4dc6da93959cc45428703cb8471e7ab11c"
+          }
+        },
+        {
+          "client_id": "170168176816-ci4tpnosc4gksmh1phdn7qeonm20f7ph.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.scriptsbundle.adforest",
+            "certificate_hash": "d22848fae0058bfb84ccffd4e6e725d88ee5d8f9"
+          }
+        },
+        {
+          "client_id": "170168176816-foonpdsct0g2aom3a9djs2g32j4vus6k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.scriptsbundle.adforest",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "170168176816-nd7046nceoefjntfh98sb996hql2gi4n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.scriptsbundle.adforest",
+            "certificate_hash": "ba536f98d653357936f17026623e07a9760791fe"
+          }
+        },
+        {
+          "client_id": "170168176816-uuop5hm7teq0ncsjv9i7ukltjh2uo1rq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.scriptsbundle.adforest",
+            "certificate_hash": "05231c98001a9237c4aed1638af2c752c6ab5d90"
+          }
+        },
+        {
+          "client_id": "170168176816-96vo4j6q5s20vp7t2atlvojna6rrqik5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDo0JbOPrQ_XqEM8Sc3saYsuN9dQtq0y84"
+        },
+        {
+          "current_key": "AIzaSyD-UWb1WhceMAVnHFe2PNdw49fyS7Yh9rQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "170168176816-96vo4j6q5s20vp7t2atlvojna6rrqik5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "170168176816-cni27t9d6mkg9mmidp62hhm0urm4vlfn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.GlixenTech.AdForestApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

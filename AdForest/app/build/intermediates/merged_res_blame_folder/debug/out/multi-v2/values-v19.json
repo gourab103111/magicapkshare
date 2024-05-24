@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.scriptsbundle.adforest.app-mergeDebugResources-157:/values-v19/values-v19.xml",
+            "map": [
+                {
+                    "source": "D:\\myfriend\\Updatework\\tryagain\\AdForest\\app\\src\\main\\res\\values-v19\\styles.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "56",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "201"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "200"
+                    }
+                }
+            ]
+        }
+    ]
+}

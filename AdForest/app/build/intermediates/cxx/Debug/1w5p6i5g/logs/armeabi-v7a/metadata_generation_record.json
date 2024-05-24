@@ -1,0 +1,145 @@
+[
+  {
+    "level_": 0,
+    "message_": "Start JSON generation. Platform version: 21 min SDK version: armeabi-v7a",
+    "file_": "D:\\myfriend\\Updatework\\tryagain\\AdForest\\app\\src\\main\\jni\\Android.mk",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "rebuilding JSON D:\\myfriend\\Updatework\\tryagain\\AdForest\\app\\build\\.cxx\\Debug\\1w5p6i5g\\armeabi-v7a\\android_gradle_build.json due to:",
+    "file_": "D:\\myfriend\\Updatework\\tryagain\\AdForest\\app\\src\\main\\jni\\Android.mk",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "- no fingerprint file, will remove stale configuration folder",
+    "file_": "D:\\myfriend\\Updatework\\tryagain\\AdForest\\app\\src\\main\\jni\\Android.mk",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "removing stale contents from \u0027D:\\myfriend\\Updatework\\tryagain\\AdForest\\app\\build\\.cxx\\Debug\\1w5p6i5g\\armeabi-v7a\u0027",
+    "file_": "D:\\myfriend\\Updatework\\tryagain\\AdForest\\app\\src\\main\\jni\\Android.mk",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "created folder \u0027D:\\myfriend\\Updatework\\tryagain\\AdForest\\app\\build\\.cxx\\Debug\\1w5p6i5g\\armeabi-v7a\u0027",
+    "file_": "D:\\myfriend\\Updatework\\tryagain\\AdForest\\app\\src\\main\\jni\\Android.mk",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "executing ndkBuild @echo off\n\"C:\\\\Users\\\\user\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\ndk\\\\24.0.8215888\\\\ndk-build.cmd\" ^\n  \"NDK_PROJECT_PATH\u003dnull\" ^\n  \"APP_BUILD_SCRIPT\u003dD:\\\\myfriend\\\\Updatework\\\\tryagain\\\\AdForest\\\\app\\\\src\\\\main\\\\jni\\\\Android.mk\" ^\n  \"NDK_APPLICATION_MK\u003dD:\\\\myfriend\\\\Updatework\\\\tryagain\\\\AdForest\\\\app\\\\src\\\\main\\\\jni\\\\Application.mk\" ^\n  \"APP_ABI\u003darmeabi-v7a\" ^\n  \"NDK_ALL_ABIS\u003darmeabi-v7a\" ^\n  \"NDK_DEBUG\u003d1\" ^\n  \"APP_PLATFORM\u003dandroid-21\" ^\n  \"NDK_OUT\u003dD:\\\\myfriend\\\\Updatework\\\\tryagain\\\\AdForest\\\\app\\\\build\\\\intermediates\\\\cxx\\\\Debug\\\\1w5p6i5g/obj\" ^\n  \"NDK_LIBS_OUT\u003dD:\\\\myfriend\\\\Updatework\\\\tryagain\\\\AdForest\\\\app\\\\build\\\\intermediates\\\\cxx\\\\Debug\\\\1w5p6i5g/lib\" ^\n  \"APP_SHORT_COMMANDS\u003dfalse\" ^\n  \"LOCAL_SHORT_COMMANDS\u003dfalse\" ^\n  -B ^\n  -n\n",
+    "file_": "D:\\myfriend\\Updatework\\tryagain\\AdForest\\app\\src\\main\\jni\\Android.mk",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "@echo off\n\"C:\\\\Users\\\\user\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\ndk\\\\24.0.8215888\\\\ndk-build.cmd\" ^\n  \"NDK_PROJECT_PATH\u003dnull\" ^\n  \"APP_BUILD_SCRIPT\u003dD:\\\\myfriend\\\\Updatework\\\\tryagain\\\\AdForest\\\\app\\\\src\\\\main\\\\jni\\\\Android.mk\" ^\n  \"NDK_APPLICATION_MK\u003dD:\\\\myfriend\\\\Updatework\\\\tryagain\\\\AdForest\\\\app\\\\src\\\\main\\\\jni\\\\Application.mk\" ^\n  \"APP_ABI\u003darmeabi-v7a\" ^\n  \"NDK_ALL_ABIS\u003darmeabi-v7a\" ^\n  \"NDK_DEBUG\u003d1\" ^\n  \"APP_PLATFORM\u003dandroid-21\" ^\n  \"NDK_OUT\u003dD:\\\\myfriend\\\\Updatework\\\\tryagain\\\\AdForest\\\\app\\\\build\\\\intermediates\\\\cxx\\\\Debug\\\\1w5p6i5g/obj\" ^\n  \"NDK_LIBS_OUT\u003dD:\\\\myfriend\\\\Updatework\\\\tryagain\\\\AdForest\\\\app\\\\build\\\\intermediates\\\\cxx\\\\Debug\\\\1w5p6i5g/lib\" ^\n  \"APP_SHORT_COMMANDS\u003dfalse\" ^\n  \"LOCAL_SHORT_COMMANDS\u003dfalse\" ^\n  -B ^\n  -n\n",
+    "file_": "D:\\myfriend\\Updatework\\tryagain\\AdForest\\app\\src\\main\\jni\\Android.mk",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "parse and convert ndk-build output to build configuration JSON",
+    "file_": "D:\\myfriend\\Updatework\\tryagain\\AdForest\\app\\src\\main\\jni\\Android.mk",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "found application make file D:\\myfriend\\Updatework\\tryagain\\AdForest\\app\\src\\main\\jni\\Application.mk",
+    "file_": "D:\\myfriend\\Updatework\\tryagain\\AdForest\\app\\src\\main\\jni\\Android.mk",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "done executing ndkBuild",
+    "file_": "D:\\myfriend\\Updatework\\tryagain\\AdForest\\app\\src\\main\\jni\\Android.mk",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "JSON generation completed without problems",
+    "file_": "D:\\myfriend\\Updatework\\tryagain\\AdForest\\app\\src\\main\\jni\\Android.mk",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  }
+]

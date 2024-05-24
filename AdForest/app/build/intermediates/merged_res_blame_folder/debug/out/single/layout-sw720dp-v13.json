@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout-sw720dp-v13/item_blog.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout-sw720dp/item_blog.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout-sw720dp-v13/item_main_home_allcat.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout-sw720dp/item_main_home_allcat.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout-sw720dp-v13/fragment_blog_detail.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout-sw720dp/fragment_blog_detail.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout-sw720dp-v13/image_slider_layout_item.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout-sw720dp/image_slider_layout_item.xml"
+    }
+]

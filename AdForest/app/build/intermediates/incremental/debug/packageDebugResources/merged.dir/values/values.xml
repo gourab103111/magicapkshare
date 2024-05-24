@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <string-array name="month_array">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+    </string-array>
+    <string-array name="year_array">
+        <item>2017</item>
+        <item>2018</item>
+        <item>2019</item>
+        <item>2020</item>
+        <item>2021</item>
+        <item>2022</item>
+        <item>2023</item>
+        <item>2024</item>
+        <item>2025</item>
+
+    </string-array>
+    <color name="azac_500">#DEB334</color>
+    <color name="background_color">#f58936</color>
+    <color name="black">#000000</color>
+    <color name="blackTransparent">#80000000</color>
+    <color name="black_overlay">#66000000</color>
+    <color name="bt_error_red">#FF9494</color>
+    <color name="card_background">#ffffff</color>
+    <color name="card_detailing">#eee</color>
+    <color name="card_shadow_1">#d4d4d4</color>
+    <color name="card_shadow_2">#dddddd</color>
+    <color name="circular_progress_default_background">#787878</color>
+    <color name="circular_progress_default_progress">#24ea01</color>
+    <color name="circular_progress_default_subtitle">#D1D1D1</color>
+    <color name="circular_progress_default_title">#199603</color>
+    <color name="cod_gray_900">#171516</color>
+    <color name="colorAccent">#303F9F</color>
+    <color name="colorDivider">#727272</color>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="cpb_blue">#ff0099cc</color>
+    <color name="cpb_blue_dark">#ff00719b</color>
+    <color name="cpb_green">#ff99cc00</color>
+    <color name="cpb_green_dark">#ff6d9b00</color>
+    <color name="cpb_grey">#ffdedede</color>
+    <color name="cpb_red">#ffff4444</color>
+    <color name="cpb_red_dark">#ffcd3a3a</color>
+    <color name="cpb_white">@android:color/white</color>
+    <color name="google_red">#db3236</color>
+    <color name="gradientFirst">#23966c</color>
+    <color name="gradientfifth">#360670</color>
+    <color name="gradientfourth">#db0768</color>
+    <color name="gradientsecond">#faaa54</color>
+    <color name="gradientthird">#e23b4a</color>
+    <color name="grey">#00000000</color>
+    <color name="ic_launcher_background">#FFFFFF</color>
+    <color name="light_grey100">#fafafa</color>
+    <color name="notVerified_color">#F25E5E</color>
+    <color name="rangeseekbar">#f58936</color>
+    <color name="rangeseekbarhover">#f07618</color>
+    <color name="rattingBarColor">#aaffffff</color>
+    <color name="shimmerColor">#f5f5f5</color>
+    <color name="silver_400">#CBC9C9</color>
+    <color name="socialIcons_background">#eff3f6</color>
+    <color name="spots_dialog_color">#303F9F</color>
+    <color name="tab1">#a0d468</color>
+    <color name="tab2">#3498db</color>
+    <color name="tab3">#e8ce4d</color>
+    <color name="tab4">#F25E5E</color>
+    <color name="transparent">#00000000</color>
+    <color name="verified_color">#24a740 </color>
+    <color name="white">#FFFFFF</color>
+    <color name="white_greyish">#a0a0a0</color>
+    <color name="yellow">#ffcc00</color>
+    <dimen name="activityPadding">16dp</dimen>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="appbar_padding_top">8dp</dimen>
+    <dimen name="dimen_10">10dp</dimen>
+    <dimen name="dimen_16">16dp</dimen>
+    <dimen name="dimen_20">20dp</dimen>
+    <dimen name="dimen_24">24dp</dimen>
+    <dimen name="dimen_32">32dp</dimen>
+    <dimen name="dimen_8">8dp</dimen>
+    <dimen name="dm_14sp">14sp</dimen>
+    <dimen name="dm_200dp">200dp</dimen>
+    <dimen name="dm_20sp">20sp</dimen>
+    <dimen name="dm_40sp">40sp</dimen>
+    <dimen name="dm_42sp">42sp</dimen>
+    <dimen name="dm_90sp">90sp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="headtext_padding">7dp</dimen>
+    <dimen name="image_height">420dp</dimen>
+    <dimen name="latest_Ads">18sp</dimen>
+    <dimen name="marker_corner_radius">4dp</dimen>
+    <dimen name="marker_height">40dp</dimen>
+    <dimen name="marker_width">32dp</dimen>
+    <dimen name="nav_header_height">180dp</dimen>
+    <dimen name="nav_header_vertical_spacing">16dp</dimen>
+    <dimen name="notificationSize">12sp</dimen>
+    <dimen name="padding_10">10dp</dimen>
+    <dimen name="padding_top">18dp</dimen>
+    <dimen name="placeholderImage">60dp</dimen>
+    <dimen name="placeholderTextHeight">8dp</dimen>
+    <dimen name="saved_jobs_popup_height">180dp</dimen>
+    <dimen name="text_14">14sp</dimen>
+    <dimen name="text_16">16sp</dimen>
+    <dimen name="text_18">18sp</dimen>
+    <dimen name="text_24">24sp</dimen>
+    <dimen name="text_32">32sp</dimen>
+    <dimen name="text_margin">16dp</dimen>
+    <dimen name="welcome_text_size">25sp</dimen>
+    <item name="ic_menu_camera" type="drawable">@android:drawable/ic_menu_camera</item>
+    <item name="ic_menu_gallery" type="drawable">@android:drawable/ic_menu_gallery</item>
+    <item name="ic_menu_manage" type="drawable">@android:drawable/ic_menu_manage</item>
+    <item name="ic_menu_send" type="drawable">@android:drawable/ic_menu_send</item>
+    <item name="ic_menu_share" type="drawable">@android:drawable/ic_menu_share</item>
+    <item name="ic_menu_slideshow" type="drawable">@android:drawable/ic_menu_slideshow</item>
+    <integer name="angle_rtl_180">0</integer>
+    <string name="Admob_app_id">ca-app-pub-2596107136418753~3939898798</string>
+    <string name="_0">0</string>
+    <string name="aboutPreference">about</string>
+    <string name="aboutSection">aboutSection</string>
+    <string name="access_token">pk.eyJ1IjoiZ2xpeGVuZCIsImEiOiJjazNueGk1MHgxOHd1M2xubXA2a3F1ZjhrIn0.PwzeDhioLVSDVa-4_UyWtQ</string>
+    <string name="appRating">appRating</string>
+    <string name="appShare">appShare</string>
+    <string name="app_name">AdForest</string>
+    <string name="com.google.firebase.crashlytics.mapping_file_id" ns1:ignore="UnusedResources,TypographyDashes" translatable="false">00000000000000000000000000000000</string>
+    <string name="com_facebook_loginview_log_in_button">Log in</string>
+    <string name="com_facebook_loginview_log_in_button_long">Log in with Facebook</string>
+    <string name="com_facebook_loginview_log_out_button">Log out</string>
+    <string name="default_web_client_id" translatable="false">170168176816-96vo4j6q5s20vp7t2atlvojna6rrqik5.apps.googleusercontent.com</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="facebook_app_id">567000788377989</string>
+    <string name="facebook_client_token">176f42e104d893b3eb5ad9e1e88a8d9c</string>
+    <string name="faqPreference">faqPreference</string>
+    <string name="fb_login_protocol_scheme">fb567000788377989</string>
+    <string name="feedbackPrefrence">key_send_feedback</string>
+    <string name="firebase_database_url" translatable="false">https://adforest-ab45e.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">170168176816</string>
+    <string name="generalSection">generalSection</string>
+    <string name="google_api_key" translatable="false">AIzaSyDo0JbOPrQ_XqEM8Sc3saYsuN9dQtq0y84</string>
+    <string name="google_app_id" translatable="false">1:170168176816:android:89acb8715f7d5c84feab75</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDo0JbOPrQ_XqEM8Sc3saYsuN9dQtq0y84</string>
+    <string name="google_storage_bucket" translatable="false">adforest-ab45e.appspot.com</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="mainSection">mainSection</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="p_policyPreference">p_policyPreference</string>
+    <string name="paypal_client_id">Ab05hrhubyzZEYb6jDjK7LspRp-aVYnYsvRxxiX4j__nJDoF_R0YBxslWlDz8XCChYchwZP2CQgq3oi8</string>
+    <string name="player_error">Error initializing YouTube player: %s</string>
+    <string name="pref_key_transition_time" translatable="false">pref_key_transition_time</string>
+    <string name="project_id" translatable="false">adforest-ab45e</string>
+    <string name="reportUser">Report User</string>
+    <string name="sh_linkedin_progress_dialog_message">Please wait it is loading</string>
+    <string name="termsPreference">termsPreference</string>
+    <string name="title_activity_fullscreen_view">activity_fullscreen_view</string>
+    <string name="versionPreference">versionPreference</string>
+    <style name="AppDarkTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+
+        
+        <item name="colorPrimary">@color/black</item>
+        <item name="colorAccent">@color/grey_400</item>
+
+    </style>
+    <style name="AppTabLayouProfile" parent="Widget.Design.TabLayout">
+        <item name="tabIndicatorColor">@color/background_color</item>
+        <item name="tabIndicatorHeight">4dp</item>
+        <item name="android:textSize">200sp</item>
+        
+        
+        <item name="tabBackground">?attr/selectableItemBackground</item>
+        <item name="tabTextAppearance">@style/AppTabTextAppearanceProfile</item>
+        <item name="tabSelectedTextColor">@color/background_color</item>
+    </style>
+    <style name="AppTabTextAppearanceProfile" parent="TextAppearance.Design.Tab">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="textAllCaps">false</item>
+    </style>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+
+        
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorAccent">@color/colorAccent</item>
+
+    </style>
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar"/>
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+
+    </style>
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light"/>
+    <style name="AppTheme.WhiteAccent">
+        <item name="colorAccent">@color/background_color</item> 
+    </style>
+    <style name="CheckboxStyle" parent="AppTheme">
+        <item name="colorAccent">@color/colorAccent</item>
+        // for checked
+        <item name="android:textColorSecondary">@color/quantum_purple</item>
+        // for unchecked
+    </style>
+    <style name="FacebookLoginButtonStyle">
+        <item name="android:textSize">16sp</item>
+        <item name="android:paddingTop">10sp</item>
+        <item name="android:paddingBottom">10sp</item>
+    </style>
+    <style name="FullscreenActionBarStyle" parent="Widget.AppCompat.ActionBar">
+        <item name="android:background">@color/black_overlay</item>
+    </style>
+    <style name="FullscreenTheme" parent="AppTheme">
+        <item name="android:actionBarStyle">@style/FullscreenActionBarStyle</item>
+        <item name="android:windowActionBarOverlay">true</item>
+        <item name="android:windowBackground">@null</item>
+        <item name="metaButtonBarStyle">?android:attr/buttonBarStyle</item>
+        <item name="metaButtonBarButtonStyle">?android:attr/buttonBarButtonStyle</item>
+    </style>
+    <style name="GoogleLoginButton">
+        <item name="android:layout_marginBottom">15dp</item>
+
+    </style>
+    <style name="NoActionBar" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    <style name="PauseDialog" parent="@style/Theme.AppCompat.Light.Dialog">
+        <item name="android:windowNoTitle">false</item>
+    </style>
+    <style name="RippleTheme">
+        <item name="colorControlHighlight">#FFF</item>
+    </style>
+    <style name="SelectableItemTheme">
+        <item name="colorControlHighlight">#1e333d</item>
+    </style>
+    <style name="Widget"/>
+    <style name="Widget.ProgressBar.CircularProgressBar" parent="Widget">
+        <item name="android:indeterminateOnly">false</item>
+        <item name="android:adjustViewBounds">true</item>
+        <item name="cpb_progressColor">@color/circular_progress_default_progress</item>
+        <item name="cpb_hasShadow">true</item>
+        <item name="cpb_strokeWidth">40</item>
+        <item name="cpb_titleColor">@color/circular_progress_default_title</item>
+        <item name="cpb_subtitleColor">@color/circular_progress_default_subtitle</item>
+    </style>
+    <style name="Widget.ProgressBar.Holo.CircularProgressBar" parent="Widget.ProgressBar.CircularProgressBar">
+        <item name="cpb_hasShadow">false</item>
+        <item name="cpb_strokeWidth">5</item>
+    </style>
+    <style name="customDialog" parent="Theme.AppCompat.Light.Dialog">
+        <item name="android:windowAnimationStyle">@style/customDialogAnimation</item>
+    </style>
+    <style name="customDialogAnimation">
+        <item name="android:windowEnterAnimation">@anim/right_enter</item>
+        <item name="android:windowExitAnimation">@anim/left_out</item>
+    </style>
+    <style name="myToolbarTheme" parent="ThemeOverlay.AppCompat.Dark.ActionBar">
+        <item name="colorControlNormal">@color/white</item>
+    </style>
+    <style name="scrollbar_shape_style">
+        <item name="android:scrollbars">vertical</item>
+        <item name="android:fadeScrollbars">true</item>
+        <item name="android:scrollbarThumbVertical">@drawable/bg_scrool_bar</item>
+        <item name="android:scrollbarTrackVertical">@drawable/bg_scrool_bar_thumb</item>
+        <item name="android:scrollbarSize">8dp</item>
+        <item name="android:scrollbarFadeDuration">2000</item>
+        <item name="android:scrollbarDefaultDelayBeforeFade">1000</item>
+    </style>
+    <style name="spinnerDropDownItemStyle" parent="android:TextAppearance.Widget.TextView.SpinnerItem">
+
+    </style>
+    <style name="spinnerItemStyle" parent="android:Widget.TextView.SpinnerItem">
+
+    </style>
+    <declare-styleable name="ButtonBarContainerTheme">
+        <attr format="reference" name="metaButtonBarStyle"/>
+        <attr format="reference" name="metaButtonBarButtonStyle"/>
+    </declare-styleable>
+    <declare-styleable name="CircularProgressBar">
+        <attr format="boolean" name="cpb_hasShadow"/>
+        <attr format="string" name="cpb_progressColor"/>
+        <attr format="string" name="cpb_backgroundColor"/>
+        <attr format="string" name="cpb_title"/>
+        <attr format="string" name="cpb_titleColor"/>
+        <attr format="string" name="cpb_subtitle"/>
+        <attr format="string" name="cpb_subtitleColor"/>
+        <attr format="integer" name="cpb_strokeWidth"/>
+    </declare-styleable>
+</resources>

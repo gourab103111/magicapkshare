@@ -1,0 +1,43 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.scriptsbundle.adforest.app-mergeDebugResources-157:/values-small-v4/values-small-v4.xml",
+            "map": [
+                {
+                    "source": "D:\\myfriend\\Updatework\\tryagain\\AdForest\\app\\src\\main\\res\\values-small\\dimens.xml",
+                    "from": {
+                        "startLines": "3,5,2,4",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "98,194,55,145",
+                        "endColumns": "46,40,42,48",
+                        "endOffsets": "140,230,93,189"
+                    },
+                    "to": {
+                        "startLines": "2,3,8,9",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,102,428,471",
+                        "endColumns": "46,40,42,48",
+                        "endOffsets": "97,138,466,515"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\user\\.gradle\\caches\\transforms-3\\d018fddd0cc842744fd832dc57f1327c\\transformed\\material-1.10.0\\res\\values-small-v4\\values-small-v4.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,128,198,270",
+                        "endColumns": "72,69,71,69",
+                        "endOffsets": "123,193,265,335"
+                    },
+                    "to": {
+                        "startLines": "4,5,6,7",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "143,216,286,358",
+                        "endColumns": "72,69,71,69",
+                        "endOffsets": "211,281,353,423"
+                    }
+                }
+            ]
+        }
+    ]
+}

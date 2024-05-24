@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.scriptsbundle.adforest.app-mergeDebugResources-157:/values-w640dp-v13/values-w640dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\user\\.gradle\\caches\\transforms-3\\3a54a719eb9eb7d746b306c304f6933e\\transformed\\jetified-belvedere-3.0.0-RC\\res\\values-w640dp-v13\\values-w640dp-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "67",
+                        "endOffsets": "118"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.scriptsbundle.adforest.app-mergeDebugResources-157:/values-sw720dp-v13/values-sw720dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\user\\.gradle\\caches\\transforms-3\\d79c924ff395faf6d5bda471ee6f371c\\transformed\\jetified-cardinalmobilesdk-2.2.7-2\\res\\values-sw720dp-v13\\values-sw720dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,98,147,198,248,304",
+                        "endColumns": "42,48,50,49,55,57",
+                        "endOffsets": "93,142,193,243,299,357"
+                    },
+                    "to": {
+                        "startLines": "6,8,9,10,13,14",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "273,361,410,461,610,666",
+                        "endColumns": "42,48,50,49,55,57",
+                        "endOffsets": "311,405,456,506,661,719"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\user\\.gradle\\caches\\transforms-3\\2189648ed224abe3405a4d6d24ef0428\\transformed\\jetified-Android-SwitchDateTimePicker-1.9\\res\\values-sw720dp-v13\\values-sw720dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "55,108,165,217,273,318,368",
+                        "endColumns": "52,56,51,55,44,49,48",
+                        "endOffsets": "103,160,212,268,313,363,412"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,7,11,12",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "55,108,165,217,316,511,561",
+                        "endColumns": "52,56,51,55,44,49,48",
+                        "endOffsets": "103,160,212,268,356,556,605"
+                    }
+                }
+            ]
+        }
+    ]
+}

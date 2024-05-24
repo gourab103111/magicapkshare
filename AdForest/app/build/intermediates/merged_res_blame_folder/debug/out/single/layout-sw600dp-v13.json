@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout-sw600dp-v13/fragment_profile.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout-sw600dp/fragment_profile.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout-sw600dp-v13/fragment_main_home.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout-sw600dp/fragment_main_home.xml"
+    }
+]

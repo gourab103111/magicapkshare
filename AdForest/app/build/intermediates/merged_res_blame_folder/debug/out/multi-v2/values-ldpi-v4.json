@@ -1,0 +1,43 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.scriptsbundle.adforest.app-mergeDebugResources-157:/values-ldpi-v4/values-ldpi-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\user\\.gradle\\caches\\transforms-3\\1badfed392df5aad68dddd529c0f53c4\\transformed\\jetified-payments-core-20.33.0\\res\\values-ldpi-v4\\values-ldpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "63",
+                        "endOffsets": "114"
+                    },
+                    "to": {
+                        "startLines": "9",
+                        "startColumns": "4",
+                        "startOffsets": "421",
+                        "endColumns": "63",
+                        "endOffsets": "480"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\user\\.gradle\\caches\\transforms-3\\2189648ed224abe3405a4d6d24ef0428\\transformed\\jetified-Android-SwitchDateTimePicker-1.9\\res\\values-ldpi-v4\\values-ldpi-v4.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,108,165,217,273,329,376,421,471,518,576",
+                        "endColumns": "52,56,51,55,55,46,44,49,46,57,48",
+                        "endOffsets": "103,160,212,268,324,371,416,466,513,571,620"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,10,11,12,13",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,108,165,217,273,329,376,485,535,582,640",
+                        "endColumns": "52,56,51,55,55,46,44,49,46,57,48",
+                        "endOffsets": "103,160,212,268,324,371,416,530,577,635,684"
+                    }
+                }
+            ]
+        }
+    ]
+}

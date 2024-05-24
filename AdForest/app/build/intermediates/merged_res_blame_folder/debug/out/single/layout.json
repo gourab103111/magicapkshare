@@ -1,0 +1,710 @@
+[
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/dialog_verify_phone.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/dialog_verify_phone.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/activity_chat.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/activity_chat.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/item_cat_sub_cat.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/item_cat_sub_cat.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/whizzchat_item_chat_received_layout.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/whizzchat_item_chat_received_layout.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/collage_four.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/collage_four.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/popup_saved_jobs_success.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/popup_saved_jobs_success.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/dialog_send_feedback.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/dialog_send_feedback.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/collage_vertical_and_horizontal.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/collage_vertical_and_horizontal.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/bubblelayout.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/bubblelayout.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/item_rating.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/item_rating.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/fragment_chat_layout.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/fragment_chat_layout.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/content_search.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/content_search.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/item_chat_layout_rtl.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/item_chat_layout_rtl.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/dialog_message.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/dialog_message.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/activity_lorrie.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/activity_lorrie.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/content_chat.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/content_chat.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/fragment_search.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/fragment_search.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/itemof_biding_statistics.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/itemof_biding_statistics.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/itemof_public_profile.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/itemof_public_profile.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/spinner_itemlarge.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/spinner_itemlarge.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/activity_shop.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/activity_shop.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/upload_file_popup.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/upload_file_popup.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/item_chat_received_layout.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/item_chat_received_layout.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/fragment_profile_edit.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/fragment_profile_edit.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/fragment_sellers_list.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/fragment_sellers_list.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/item_sellers_list.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/item_sellers_list.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/multi_itemof_feature_search_default.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/multi_itemof_feature_search_default.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/data_placeholder_layout.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/data_placeholder_layout.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/fragment_ad_detail.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/fragment_ad_detail.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/marvel_latest_ads_horizontal.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/marvel_latest_ads_horizontal.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/user_rating.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/user_rating.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/item_main_home_allcat.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/item_main_home_allcat.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/multi_itemof_location_ads.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/multi_itemof_location_ads.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/activity_in_app_purchase.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/activity_in_app_purchase.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/linkedin_progress_dialogue.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/linkedin_progress_dialogue.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/item_packages.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/item_packages.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/marvel_item_main_home_related_all.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/marvel_item_main_home_related_all.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/multi_itemof_feature_search.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/multi_itemof_feature_search.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/fragment_cat_subcatlist.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/fragment_cat_subcatlist.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/activity_ad_detail_activity.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/activity_ad_detail_activity.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/list_layout.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/list_layout.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/login_layout.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/login_layout.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/fragment_choose_location.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/fragment_choose_location.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/activity_block_message_.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/activity_block_message_.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/dilog_progressbar.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/dilog_progressbar.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/dialog_report.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/dialog_report.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/spinner_item_medium.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/spinner_item_medium.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/view_collage_image.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/view_collage_image.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/fragment_location_layout.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/fragment_location_layout.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/activity_search.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/activity_search.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/whizzchat_item_chat_rtl.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/whizzchat_item_chat_rtl.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/forgotpassword_layout.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/forgotpassword_layout.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/activity_home.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/activity_home.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/marvel_latest_ads_default.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/marvel_latest_ads_default.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/activity_pay_here_integration.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/activity_pay_here_integration.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/itemoflocationpopup.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/itemoflocationpopup.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/carousel_layout.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/carousel_layout.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/custom_notification_layout.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/custom_notification_layout.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/item_packages_dialog.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/item_packages_dialog.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/marvel_featured_ads_default.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/marvel_featured_ads_default.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/dialog_call.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/dialog_call.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/fragment_ad_rating.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/fragment_ad_rating.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/image_slider_layout_item.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/image_slider_layout_item.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/signup_layout.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/signup_layout.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/item_bid_layout.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/item_bid_layout.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/collage_two.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/collage_two.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/fragment_all_categories.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/fragment_all_categories.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/fragment_home_marvel.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/fragment_home_marvel.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/itemof_edit_image.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/itemof_edit_image.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/item_list_locations_dialog.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/item_list_locations_dialog.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/bottom_sheet_picker.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/bottom_sheet_picker.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/fragment_main_home_marvel.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/fragment_main_home_marvel.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/item_viewall_categories.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/item_viewall_categories.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/fragment_rating_list.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/fragment_rating_list.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/fragment_myadd.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/fragment_myadd.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/collage_three.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/collage_three.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/dialog_sub_cat.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/dialog_sub_cat.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/itemof_user_adds.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/itemof_user_adds.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/dialogforcat.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/dialogforcat.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/fragment_o_t_p_sign_in_or_sign_up.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/fragment_o_t_p_sign_in_or_sign_up.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/fragment_bid_statistics.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/fragment_bid_statistics.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/item_blogs_home.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/item_blogs_home.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/item_comnt_list.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/item_comnt_list.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/multi_item_main_all_cat.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/multi_item_main_all_cat.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/shimmer_layout.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/shimmer_layout.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/activity_settings.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/activity_settings.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/activity_whizz_chat_list.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/activity_whizz_chat_list.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/activity_world_pay_integration.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/activity_world_pay_integration.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/fragment_profile.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/whizzchat_item_chat_received_rtl.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/whizzchat_item_chat_received_rtl.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/item_sent_message.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/item_sent_message.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/kt_user_consent.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/kt_user_consent.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/activity_thankyou.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/activity_thankyou.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/fragment_send_offers.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/fragment_send_offers.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/item_chat_received_image.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/item_chat_received_image.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/item_chat_received_layout_rtl.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/item_chat_received_layout_rtl.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/pager_item.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/pager_item.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/fragment_block__message_.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/fragment_block__message_.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/fragment_bid_list.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/fragment_bid_list.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/news_articles.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/news_articles.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/item_blog.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/item_blog.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/multi_item_main_home_related.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/multi_item_main_home_related.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/activity_splash_screen.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/activity_splash_screen.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/dialogmaterial.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/dialogmaterial.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/fragment_all_locations.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/fragment_all_locations.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/fragment_verify_account.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/fragment_verify_account.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/dialog_change_password.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/dialog_change_password.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/marvel_item_main_all_cat.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/marvel_item_main_all_cat.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/content_ad_detail_activity.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/content_ad_detail_activity.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/dialog_contact_seller.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/dialog_contact_seller.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/multi_item_viewall_categories.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/multi_item_viewall_categories.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/itemof_related_posts.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/itemof_related_posts.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/fragment_main_home.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/fragment_main_home.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/activity_web_view.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/activity_web_view.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/verified_successfully_dialog.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/verified_successfully_dialog.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/fragment_recieved_offers.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/fragment_recieved_offers.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/activity_stripe_payment.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/activity_stripe_payment.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/fragment_marvel_ad_detail.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/fragment_marvel_ad_detail.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/item_locations_horizontal.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/item_locations_horizontal.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/activity_blocked_ads.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/activity_blocked_ads.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/sh_linkedin_activity_linkedin_authentication.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/sh_linkedin_activity_linkedin_authentication.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/center_carousel_item.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/center_carousel_item.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/fragment_catgory_detaillist.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/fragment_catgory_detaillist.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/popup_delete.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/popup_delete.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/fragment_home_multi.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/fragment_home_multi.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/activity_choose_location.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/activity_choose_location.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/carousel_item.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/carousel_item.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/activity_pay_stack.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/activity_pay_stack.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/toolbar.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/toolbar.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/marvel_featured_ads_vertical.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/marvel_featured_ads_vertical.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/activity_main.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/item_main_home_related_all.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/item_main_home_related_all.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/content_add_new_post_ad.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/content_add_new_post_ad.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/fragment_packages.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/fragment_packages.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/fragment_main_view_register.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/fragment_main_view_register.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/item_chat_layout.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/item_chat_layout.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/spinner_item.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/spinner_item.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/whizzchat_item_chat_layout.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/whizzchat_item_chat_layout.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/multi_itemof_latest_related_vertical.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/multi_itemof_latest_related_vertical.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/multi_itemof_feature_search_vertical.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/multi_itemof_feature_search_vertical.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/itemof_feature_search.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/itemof_feature_search.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/activity_message.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/activity_message.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/itemof_location_ads.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/itemof_location_ads.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/item_main_home_related.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/item_main_home_related.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/dialog_termsand_condition.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/dialog_termsand_condition.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/fragment_biding_view_pager.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/fragment_biding_view_pager.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/item_blocked_user.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/item_blocked_user.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/content_home.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/content_home.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/list_layout_multi.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/list_layout_multi.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/fragment_blocked_user.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/fragment_blocked_user.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/nav_header_home.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/nav_header_home.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/fragment_blog_detail.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/fragment_blog_detail.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/activity_full_screen_view.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/activity_full_screen_view.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/activity_authorize_net.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/activity_authorize_net.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/fragment_sign_up_phone.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/fragment_sign_up_phone.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/spinner_itemlarge_white.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/spinner_itemlarge_white.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/activity_whizz_chat_screen.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/activity_whizz_chat_screen.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/fragment_itemblog_list.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/fragment_itemblog_list.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/whizzchat_list_view.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/whizzchat_list_view.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/fragment_contact_admin.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/fragment_contact_admin.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/marvel_latest_ads_vertical.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/marvel_latest_ads_vertical.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/dialog_layout.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/dialog_layout.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/locationpopup.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/locationpopup.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/fragment_messages.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/fragment_messages.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/fragment_main_view_login.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/fragment_main_view_login.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/dialog_location_seekbar.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/dialog_location_seekbar.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/multi_latest_ads_horizontal.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/multi_latest_ads_horizontal.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/collage_one.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/collage_one.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/item_main_home_related_vertical.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/item_main_home_related_vertical.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/item_block_message.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/item_block_message.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/cat_locations_dialog.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/cat_locations_dialog.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/marvel_featured_ads_horizontal.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/marvel_featured_ads_horizontal.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/tooltip_layout.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/tooltip_layout.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/fragment_top_locations.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/fragment_top_locations.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/activity_otp_verification.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/activity_otp_verification.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/activity_choose_language.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/activity_choose_language.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout/content_edit_post_ad.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout/content_edit_post_ad.xml"
+    }
+]

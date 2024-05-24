@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout-xlarge-v4/activity_home.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout-xlarge/activity_home.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout-xlarge-v4/fragment_ad_detail.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout-xlarge/fragment_ad_detail.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout-xlarge-v4/signup_layout.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout-xlarge/signup_layout.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout-xlarge-v4/app_bar_home.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout-xlarge/app_bar_home.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout-xlarge-v4/activity_splash_screen.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout-xlarge/activity_splash_screen.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout-xlarge-v4/login_layout.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout-xlarge/login_layout.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout-xlarge-v4/nav_header_home.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout-xlarge/nav_header_home.xml"
+    }
+]

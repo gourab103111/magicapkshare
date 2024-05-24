@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout-normal-v4/activity_home.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout-normal/activity_home.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout-normal-v4/signup_layout.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout-normal/signup_layout.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout-normal-v4/activity_splash_screen.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout-normal/activity_splash_screen.xml"
+    },
+    {
+        "merged": "com.scriptsbundle.adforest.app-mergeDebugResources-158:/layout-normal-v4/login_layout.xml",
+        "source": "com.scriptsbundle.adforest.app-main-161:/layout-normal/login_layout.xml"
+    }
+]
